@@ -1,4 +1,4 @@
-# Sales-Data-Analytics-Project
+# Sales Data Analytics Project
 Objective: Explores various methods of data manipulation and querying using python pandas.
 
 
