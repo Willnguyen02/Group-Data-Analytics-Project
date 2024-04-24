@@ -1,4 +1,4 @@
-# Sales Data Analytics Menu Project
+# Sales Data Menu Navigator Project
 Objective: Explores various methods of data manipulation and querying using python pandas.
 
 
