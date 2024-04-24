@@ -1,4 +1,0 @@
-# <span style="font-size:larger;"> Bus4-92 Intro to Business Programming - Final Analytics Project </span>
-- This project covers basic pandas progamming and analytics and was completed during Fall 2022.
-- The project itself was coded in Google Colaboratory and highlights fundamental data querying techniques.
-- This assignment serves as a introduction to the world of data analytics and data science
